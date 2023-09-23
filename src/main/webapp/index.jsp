@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World to warproject!</h2>
+<h2>Hello World to warproject on triggering changes to git!</h2>
 </body>
 </html>
